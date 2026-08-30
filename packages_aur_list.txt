@@ -1,0 +1,4 @@
+neofetch
+spotify
+yay
+yay-debug
