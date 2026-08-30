@@ -1,0 +1,4 @@
+set xdg dirs and name with xdg-user-dirs-update --set PICTURES "$HOME/images"
+and then mv Desktop/ desktop
+
+all .files and folders (like bash_profile too)
