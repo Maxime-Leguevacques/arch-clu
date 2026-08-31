@@ -43,6 +43,7 @@ config_dirs=(
 	neofetch
 	waybar
 	yazi
+	nvim
 )
 
 for dir in "${config_dirs[@]}"; do
