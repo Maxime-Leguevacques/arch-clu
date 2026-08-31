@@ -10,3 +10,6 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 neofetch
+
+export CC=clang
+export CXX=clang++
