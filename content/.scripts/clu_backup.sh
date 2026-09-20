@@ -69,14 +69,6 @@ mkdir -p "$SCRIPTS_DIR"
 cp -r "$HOME/.scripts/." "$SCRIPTS_DIR"
 
 ####################################################################
-# backup dev-notes obsidian vault
-####################################################################
-mkdir -p "$OBSIDIAN_DIR"
-
-cp -r "$HOME/documents/obsidian/dev-notes/." "$OBSIDIAN_DIR/"
-rm -rf "$OBSIDIAN_DIR/.git"
-
-####################################################################
 # push everything to github
 ####################################################################
 cd $BACKUP_DIR

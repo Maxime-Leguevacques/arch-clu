@@ -13,3 +13,6 @@ neofetch
 
 export CC=clang
 export CXX=clang++
+
+# Created by `pipx` on 2026-09-15 19:50:02
+export PATH="$PATH:/home/max/.local/bin"

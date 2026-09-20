@@ -3,6 +3,7 @@ base-devel
 clang
 cmake
 discord
+dolphin
 efibootmgr
 firefox
 git
@@ -19,6 +20,7 @@ neovim
 networkmanager
 obsidian
 openssh
+python-pipx
 rofi
 sof-firmware
 spotify
